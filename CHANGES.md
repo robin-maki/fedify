@@ -67,6 +67,7 @@ To be released.
 
 [#162]: https://github.com/dahlia/fedify/issues/162
 
+ -  Support SvelteKit integrations. [[#183]]
 
 Version 1.2.7
 -------------
